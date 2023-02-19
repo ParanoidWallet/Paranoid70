@@ -1,0 +1,187 @@
+15:48:58 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 36: Plugin executed with python version: '3.9.10 (main, Feb 11 2022, 04:18:11) [MSC v.1928 64 bit (AMD64)]'
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 55: User layout: {'meta': {'author': 'ParanoidWallet', 'backcolor': '#eeeeee', 'background': None, 'name': 'Paranoid70', 'notes': '', 'radii': '', 'switchBrand': '', 'switchMount': '', 'switchType': ''}, 'keys': [{'color': '#cccccc', 'labels': ['#', None, None, None, None, None, '3'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 3.5, 'y': 0, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['@', None, None, None, None, None, '2'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 2.5, 'y': 0.125, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['$', None, None, None, None, None, '4'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 4.5, 'y': 0.125, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['%', None, None, None, None, None, '5'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 5.5, 'y': 0.25, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['!', None, None, None, None, None, '1'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 1.5, 'y': 0.375, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': [None, None, None, None, 'Esc'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 0.5, 'y': 0.38, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['E'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 3.5, 'y': 1, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['W'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 2.5, 'y': 1.125, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['R'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 4.5, 'y': 1.125, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['T'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 5.5, 'y': 1.25, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['Q'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 1.5, 'y': 1.375, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': [None, None, None, None, 'Tab'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 0.5, 'y': 1.38, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['D'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 3.5, 'y': 2, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['S'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 2.5, 'y': 2.125, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['F'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 4.5, 'y': 2.125, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['G'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 5.5, 'y': 2.25, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['A'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 1.5, 'y': 2.375, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': [None, None, None, None, 'Caps'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 0.5, 'y': 2.38, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['C'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 3.5, 'y': 3, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['X'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 2.5, 'y': 3.125, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['V'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 4.5, 'y': 3.125, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['B'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 5.5, 'y': 3.25, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': ['Z'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 1.5, 'y': 3.375, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': [None, None, None, None, 'Shift'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 0.5, 'y': 3.38, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': [None, None, None, None, 'LWin'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 3.5, 'y': 4, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': [], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 2.5, 'y': 4.125, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': [None, None, None, None, 'LAlt'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 4.5, 'y': 4.125, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': [None, None, None, None, 'LCtrl'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 0.5, 'y': 4.375, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': [], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 1.5, 'y': 4.375, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 0, 'rotation_y': 0, 'rotation_angle': 0, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': [None, None, None, None, 'Fn'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 6.75, 'y': 3.25, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 6.5, 'rotation_y': 4.25, 'rotation_angle': 30, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': [], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 7.75, 'y': 3.25, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 6.5, 'rotation_y': 4.25, 'rotation_angle': 30, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': [None, None, None, None, 'Space'], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 6.75, 'y': 4.25, 'width': 1, 'height': 2, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 2, 'rotation_x': 6.5, 'rotation_y': 4.25, 'rotation_angle': 30, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': [], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 7.75, 'y': 4.25, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 6.5, 'rotation_y': 4.25, 'rotation_angle': 30, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}, {'color': '#cccccc', 'labels': [], 'textColor': [], 'textSize': [], 'default': {'textColor': '#000000', 'textSize': 3}, 'x': 7.75, 'y': 5.25, 'width': 1, 'height': 1, 'x2': 0, 'y2': 0, 'width2': 1, 'height2': 1, 'rotation_x': 6.5, 'rotation_y': 4.25, 'rotation_angle': 30, 'decal': False, 'ghost': False, 'stepped': False, 'nub': False, 'profile': '', 'sm': '', 'sb': '', 'st': ''}]}
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX1 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX1 footprint position: (101200000, 34525000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX1 footprint position: (101200000, 34525000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D1 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D1 footprint position: (106280000, 37555000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX2 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX2 footprint position: (82150000, 36906250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX2 footprint position: (82150000, 36906250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D2 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D2 footprint position: (87230000, 39936250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX3 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX3 footprint position: (120250000, 36906250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX3 footprint position: (120250000, 36906250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D3 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D3 footprint position: (125330000, 39936250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX4 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX4 footprint position: (139300000, 39287500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX4 footprint position: (139300000, 39287500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D4 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D4 footprint position: (144380000, 42317500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX5 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX5 footprint position: (63100000, 41668750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX5 footprint position: (63100000, 41668750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D5 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D5 footprint position: (68180000, 44698750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX6 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX6 footprint position: (44050000, 41764000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX6 footprint position: (44050000, 41764000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D6 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D6 footprint position: (49130000, 44794000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX7 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX7 footprint position: (101200000, 53575000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX7 footprint position: (101200000, 53575000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D7 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D7 footprint position: (106280000, 56605000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX8 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX8 footprint position: (82150000, 55956250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX8 footprint position: (82150000, 55956250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D8 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D8 footprint position: (87230000, 58986250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX9 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX9 footprint position: (120250000, 55956250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX9 footprint position: (120250000, 55956250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D9 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D9 footprint position: (125330000, 58986250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX10 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX10 footprint position: (139300000, 58337500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX10 footprint position: (139300000, 58337500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D10 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D10 footprint position: (144380000, 61367500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX11 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX11 footprint position: (63100000, 60718750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX11 footprint position: (63100000, 60718750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D11 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D11 footprint position: (68180000, 63748750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX12 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX12 footprint position: (44050000, 60814000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX12 footprint position: (44050000, 60814000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D12 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D12 footprint position: (49130000, 63844000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX13 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX13 footprint position: (101200000, 72625000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX13 footprint position: (101200000, 72625000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D13 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D13 footprint position: (106280000, 75655000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX14 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX14 footprint position: (82150000, 75006250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX14 footprint position: (82150000, 75006250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D14 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D14 footprint position: (87230000, 78036250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX15 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX15 footprint position: (120250000, 75006250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX15 footprint position: (120250000, 75006250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D15 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D15 footprint position: (125330000, 78036250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX16 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX16 footprint position: (139300000, 77387500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX16 footprint position: (139300000, 77387500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D16 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D16 footprint position: (144380000, 80417500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX17 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX17 footprint position: (63100000, 79768750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX17 footprint position: (63100000, 79768750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D17 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D17 footprint position: (68180000, 82798750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX18 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX18 footprint position: (44050000, 79864000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX18 footprint position: (44050000, 79864000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D18 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D18 footprint position: (49130000, 82894000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX19 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX19 footprint position: (101200000, 91675000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX19 footprint position: (101200000, 91675000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D19 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D19 footprint position: (106280000, 94705000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX20 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX20 footprint position: (82150000, 94056250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX20 footprint position: (82150000, 94056250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D20 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D20 footprint position: (87230000, 97086250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX21 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX21 footprint position: (120250000, 94056250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX21 footprint position: (120250000, 94056250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D21 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D21 footprint position: (125330000, 97086250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX22 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX22 footprint position: (139300000, 96437500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX22 footprint position: (139300000, 96437500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D22 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D22 footprint position: (144380000, 99467500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX23 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX23 footprint position: (63100000, 98818750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX23 footprint position: (63100000, 98818750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D23 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D23 footprint position: (68180000, 101848750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX24 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX24 footprint position: (44050000, 98914000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX24 footprint position: (44050000, 98914000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D24 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D24 footprint position: (49130000, 101944000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX25 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX25 footprint position: (101200000, 110725000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX25 footprint position: (101200000, 110725000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D25 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D25 footprint position: (106280000, 113755000)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX26 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX26 footprint position: (82150000, 113106250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX26 footprint position: (82150000, 113106250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D26 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D26 footprint position: (87230000, 116136250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX27 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX27 footprint position: (120250000, 113106250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX27 footprint position: (120250000, 113106250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D27 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D27 footprint position: (125330000, 116136250)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX28 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX28 footprint position: (44050000, 117868750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX28 footprint position: (44050000, 117868750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D28 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D28 footprint position: (49130000, 120898750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX29 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX29 footprint position: (63100000, 117868750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX29 footprint position: (63100000, 117868750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D29 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D29 footprint position: (68180000, 120898750)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX30 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX30 footprint position: (163112500, 96437500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX30 footprint position: (163112500, 96437500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D30 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D30 footprint position: (168192500, 99467500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 53: Rotating MX30 footprint: rotationReference: (148825000, 105962500), rotationAngle: 30
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 53: Rotating MX30 footprint: rotationReference: (148825000, 105962500), rotationAngle: 30
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 53: Rotating D30 footprint: rotationReference: (148825000, 105962500), rotationAngle: 30
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX31 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX31 footprint position: (182162500, 96437500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX31 footprint position: (182162500, 96437500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D31 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D31 footprint position: (187242500, 99467500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 53: Rotating MX31 footprint: rotationReference: (148825000, 105962500), rotationAngle: 30
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 53: Rotating MX31 footprint: rotationReference: (148825000, 105962500), rotationAngle: 30
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 53: Rotating D31 footprint: rotationReference: (148825000, 105962500), rotationAngle: 30
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX32 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX32 footprint position: (163112500, 125012500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX32 footprint position: (163112500, 125012500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D32 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D32 footprint position: (168192500, 128042500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 53: Rotating MX32 footprint: rotationReference: (148825000, 105962500), rotationAngle: 30
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 53: Rotating MX32 footprint: rotationReference: (148825000, 105962500), rotationAngle: 30
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 53: Rotating D32 footprint: rotationReference: (148825000, 105962500), rotationAngle: 30
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX33 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX33 footprint position: (182162500, 115487500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX33 footprint position: (182162500, 115487500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D33 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D33 footprint position: (187242500, 118517500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 53: Rotating MX33 footprint: rotationReference: (148825000, 105962500), rotationAngle: 30
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 53: Rotating MX33 footprint: rotationReference: (148825000, 105962500), rotationAngle: 30
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 53: Rotating D33 footprint: rotationReference: (148825000, 105962500), rotationAngle: 30
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for MX34 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX34 footprint position: (182162500, 134537500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting MX34 footprint position: (182162500, 134537500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 10: Searching for D34 footprint
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 18: Setting D34 footprint position: (187242500, 137567500)
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 53: Rotating MX34 footprint: rotationReference: (148825000, 105962500), rotationAngle: 30
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 53: Rotating MX34 footprint: rotationReference: (148825000, 105962500), rotationAngle: 30
+15:49:15 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 53: Rotating D34 footprint: rotationReference: (148825000, 105962500), rotationAngle: 30
